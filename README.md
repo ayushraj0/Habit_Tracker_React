@@ -1,4 +1,4 @@
-<center> View Demo <a href="https://ayushraj0.github.io/Habit_Tracker_React/" target="_blank">Habit Tracker React</a> </center>
+<center> View Demo <a href="https://habit-tracker-react-cn.netlify.app/" target="_blank">Habit Tracker React</a> </center>
 
 ## 🦉 Main information
 
